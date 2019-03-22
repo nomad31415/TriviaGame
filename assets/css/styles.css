@@ -1,0 +1,38 @@
+
+
+body {
+    background-color: #ffffff;
+}
+
+.jumbo-style {
+    color: #ffffff;
+    background-color:  #00BFB2;
+}
+
+.panel-style {
+    border: 0px;
+    background-color: #ffffff;
+}
+
+.panel-style .panel-heading-style {
+    background-color:  #00BFB2;
+    color: #ffffff;
+}
+
+.button, 
+.start-button {
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: #00BFB2;
+    color: #ffffff;
+    /* min-width: 50px; */
+}
+
+
+h3,
+h4,
+.timer,
+.timer-text {
+    color: #5d5d5d;
+}
